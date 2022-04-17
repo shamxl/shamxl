@@ -1,17 +1,34 @@
-## Hey 👋🏻, this is shamil
+## Hey 👋🏻, its me [shamil](https://github.com/im-shamil)
 <div align="center">
 
   <img src="https://komarev.com/ghpvc/?username=im-shamil" alt="im-shamil"/>
 
 </div>
 
-__Lisa Fan Boy 💗
+*14-year-old 🖤
 <br>
-From Kerala (India) 🇮🇳
+[Lisa](https://g.co/kgs/BGmYij) Fan Boy 💗
+<br>
+From [Kerala](https://maps.app.goo.gl/Gv4zFy9uC8nTQJam9)(India) 🇮🇳
 <br>
 Started From [W3Schools](https://www.w3schools.com)
 <br>
-Intermediate In Python And Nodejs__
+Intermediate In [Python](https://www.python.org/) And [Nodejs](https://nodejs.org/en/)*
+<br>
+
+## Reach Me On
+<a href="https://t.me/im_shamil">
+
+<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-1024.png" width="50" height="50">
+
+</a>
+
+<a href="https://instagram.com/im.shamil">
+
+<img src="https://www.mppc.icmscholars.org/wp-content/uploads/2013/04/JFyofc-logo-instagram-background-png.png" width="50" height="50">
+
+</a>
+
 
 ## Some of my Github Stats
 
