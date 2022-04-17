@@ -5,15 +5,13 @@
 
 </div>
 
-*14-year-old 🖤
-<br>
-[Lisa](https://g.co/kgs/BGmYij) Fan Boy 💗
+*[Lisa](https://g.co/kgs/BGmYij) Fan Boy 💗
 <br>
 From [Kerala](https://maps.app.goo.gl/Gv4zFy9uC8nTQJam9)(India) 🇮🇳
 <br>
-Started From [W3Schools](https://www.w3schools.com)
+Started From [W3Schools](https://www.w3schools.com) 🧑🏻‍💻
 <br>
-Intermediate In [Python](https://www.python.org/) And [Nodejs](https://nodejs.org/en/)*
+Professional In [Python](https://www.python.org/) And [Nodejs](https://nodejs.org/en/) ❤️‍🩹*
 <br>
 
 ## Reach Me On
