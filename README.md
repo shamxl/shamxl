@@ -5,6 +5,14 @@
 
 </div>
 
+__Lisa Fan Boy 💗
+<br>
+From Kerala (India) 🇮🇳
+<br>
+Started From [W3Schools](https://www.w3schools.com)
+<br>
+pro In Python And Nodejs__
+
 ## Some of my Github Stats
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=im-shamil&show_icons=true&include_all_commits=true)](https://github.com/im-shamil/github-readme-stats)
