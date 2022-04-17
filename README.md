@@ -11,7 +11,7 @@ From Kerala (India) 🇮🇳
 <br>
 Started From [W3Schools](https://www.w3schools.com)
 <br>
-pro In Python And Nodejs__
+Intermediate In Python And Nodejs__
 
 ## Some of my Github Stats
 
