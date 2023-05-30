@@ -1,6 +1,18 @@
-## Hey 👋🏻, its me [shamil](https://github.com/im-shamil)
-<div align="center">
-<div align="center">
+## Hey 👋🏻
+
+
+```
+~$ Hey im shamil 
+ 
+~$ Im a full stack &  \
+   cli apps developer
+
+~$ Email me if you have \
+   any cool ideas 💡
+```
+
+
+
 
 
 
