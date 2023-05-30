@@ -9,8 +9,9 @@
    discord & telegram bots \
    developer 
 
-~$ Email me if you have \
-   any cool ideas 💡
+~$ Have an idea 💡 ? \
+   Email me
+
 ```
 
 
