@@ -6,7 +6,6 @@
  
 ~$ Im a full stack  \
    cli apps & linux tools \
-   discord & telegram bots \
    developer 
 
 ~$ Have an idea 💡 ? \
