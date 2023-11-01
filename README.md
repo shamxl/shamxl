@@ -1,3 +1,3 @@
 > [!NOTE]
 > im not mentally stable
->> but my programs are :)
+>> but my programs are :octocat:
