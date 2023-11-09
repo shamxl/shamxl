@@ -1,6 +1,6 @@
 # About Me
-While I may not be the picture of mental stability, my programs are rock solid
 
+Hi :D
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im.shamil) 
