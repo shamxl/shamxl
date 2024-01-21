@@ -1,0 +1,52 @@
+* {
+	font-family: monospace;
+}
+
+body {
+	margin: 0;
+	user-select: none;
+}
+
+section {
+	min-height: 50vh;
+	display: grid;
+	align-content: center;
+	margin-left: 20px
+	
+}
+
+nav {
+	margin: 10px;
+  	font-size: 1.5em;
+}
+
+hr {
+	border: solid 0.5px #c4c4c4;
+	opacity: 0.2;
+}
+
+.opacity-low {
+	opacity: 0.1;
+	color: grey
+}
+
+.opacity-low:active, .opacity-low:focus {
+	opacity: 1;
+}
+
+
+button {
+	width: 150px;
+	height: 30px;
+	border: none;
+	background: black;
+	border-radius: 5px;
+	color: white;
+}
+
+
+xmp {
+	font-weight: bold;
+}
+
+
